@@ -1,0 +1,16 @@
+#EXTM3U
+# ALMOGHANI IPTV — قائمة تجريبية منظمة. أضف روابط البث الرسمية المصرح بها فقط.
+#EXTINF:-1 group-title="01 | السعودية" tvg-country="SA",السعودية الأولى
+#EXTINF:-1 group-title="01 | السعودية" tvg-country="SA",الإخبارية السعودية
+#EXTINF:-1 group-title="02 | القنوات الإسلامية" tvg-country="SA",قناة القرآن الكريم
+#EXTINF:-1 group-title="02 | القنوات الإسلامية" tvg-country="SA",قناة السنة النبوية
+#EXTINF:-1 group-title="03 | الرياضة السعودية" tvg-country="SA",الرياضة السعودية
+#EXTINF:-1 group-title="04 | قطر" tvg-country="QA",تلفزيون قطر
+#EXTINF:-1 group-title="05 | الكويت" tvg-country="KW",الكويت الأولى
+#EXTINF:-1 group-title="06 | الإمارات" tvg-country="AE",تلفزيون أبوظبي
+#EXTINF:-1 group-title="07 | البحرين" tvg-country="BH",تلفزيون البحرين
+#EXTINF:-1 group-title="08 | عُمان" tvg-country="OM",تلفزيون عُمان
+#EXTINF:-1 group-title="09 | الأخبار العربية",الأخبار العربية
+#EXTINF:-1 group-title="10 | الأفلام والمسلسلات",الأفلام والمسلسلات
+#EXTINF:-1 group-title="11 | القنوات العربية العامة",القنوات العربية العامة
+#EXTINF:-1 group-title="12 | الأطفال والوثائقيات",الأطفال والوثائقيات
