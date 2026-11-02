@@ -1,13 +1,15 @@
 {
-    "name": "IPTVnator",
-    "description": "IPTVnator is a tool to watch and manage your IPTV playlists.",
-    "short_name": "IPTVnator",
-    "theme_color": "#1b1c1c",
-    "background_color": "#1b1c1c",
+    "name": "ALMOGHANI IPTV",
+    "description": "مشغل المغني لقوائم البث المباشر IPTV وملفات M3U",
+    "short_name": "ALMOGHANI",
+    "theme_color": "#111015",
+    "background_color": "#08090d",
     "display": "standalone",
     "scope": "./",
     "start_url": "./",
-    "categories": ["video"],
+    "categories": [
+        "video"
+    ],
     "icons": [
         {
             "src": "assets/icons/android-chrome-192x192.png",
